@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <a href="https://github.com/MatheusEleodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,3 +13,5 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/MatheusEleodoro/packageIcon/blob/main/ic/ic_scope.png?width=676&height=676">
 </div>
+  
+  <div>![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>

@@ -17,7 +17,7 @@ Always looking for new challenges and opportunities to improve my skills.
 ## Linguagens Mais Usadas / Most Used Languages ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
 
-![Linguagens Mais Usadas / Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&langs_count=5&hide=javascript,html,css&theme=omni)
+![Linguagens Mais Usadas / Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&langs_count=5&hide=javascript,html,css,.net&theme=omni)
 
 
 ## Projetos Destacados / Featured Projects ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)

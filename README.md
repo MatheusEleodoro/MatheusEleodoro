@@ -12,19 +12,22 @@ Always looking for new challenges and opportunities to improve my skills.
 
 ## Estatísticas do GitHub / GitHub Statistics ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
-![GitHub Stats](https://github-readme-stats-git-main-github-readme-stats-team.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/MatheusEleodoro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 
 ## Linguagens Mais Usadas / Most Used Languages ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
-![Top Langs](https://github-readme-stats-git-main-github-readme-stats-team.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&theme=tokyonight&hide_border=true)
-
+<a href="https://github.com/MatheusEleodoro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&langs_count=7&theme=tokyonight" />
+</a>
 
 ## Projetos Destacados / Featured Projects ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
 
 - [DynamicSpecification](https://github.com/MatheusEleodoro/DynamicSpecification): Biblioteca Spring Java 21 para realizar consultas dinâmicas.
 - [GorilIA](https://github.com/MatheusEleodoro/GorilIA): Assistente Virtual em Java (ChatGPT).
-- [Authenticator](https://github.com/MatheusEleodoro/api-authenticator): Api de autenticação de servi��os via Keycloak em ambiente Docker.
+- [Authenticator](https://github.com/MatheusEleodoro/api-authenticator): Api de autenticação de serviços via Keycloak em ambiente Docker.
 
 ## Entre em Contato / Contact Me ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 

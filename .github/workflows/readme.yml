@@ -10,58 +10,57 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Fetch repos
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch repositories
         run: |
-          curl -s https://api.github.com/users/MatheusEleodoro/repos?sort=pushed > repos.json
+          curl -s "https://api.github.com/users/MatheusEleodoro/repos?sort=pushed" > repos.json
 
-      - name: Generate cards (padronizado)
+      - name: Generate cards
         run: |
           echo "<table><tr>" > cards.html
 
-          cat repos.json | jq -r '
-            .[0:3] |
-            .[] |
-            (
-              .description // "No description"
-            ) as $desc |
-            "<td width=\"33%\" align=\"center\">
+          jq -r '.[:3][] | 
+          "<td width=\"33%\" align=\"center\">
+          
+<img src=\"https://img.shields.io/badge/%20-Project-0A66C2?style=for-the-badge\"/>
 
-<img src=\"https://img.shields.io/badge/%20-Project-0A66C2?style=for-the-badge&logo=github&labelColor=0A66C2\"/>
+### \(.name)
 
-### " + .name + "
-
-<sub>" + ($desc[0:80]) + "</sub>
+<sub>\((.description // "No description") | .[0:80])</sub>
 
 <br><br>
 
-<img src=\"https://img.shields.io/badge/Lang-" + (.language // "N/A") + "-ED8B00?style=flat-square\"/>
+<img src=\"https://img.shields.io/badge/Lang-\(.language // "N/A")-ED8B00?style=flat-square\"/>
 
 <br><br><br>
 
-<a href=\"" + .html_url + "\">
+<a href=\"\(.html_url)\">
 <img src=\"https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github\"/>
 </a>
 
 </td>"
-          ' >> cards.html
+          ' repos.json >> cards.html
 
           echo "</tr></table>" >> cards.html
 
-      - name: Inject into README
+      - name: Update README
         run: |
-          sed -i '/<!--START_SECTION:cards-->/,/<!--END_SECTION:cards-->/c\
-<!--START_SECTION:cards-->\
-\
-'"$(cat cards.html)"'\
-\
-<!--END_SECTION:cards-->' README.md
+          awk '
+          BEGIN {p=1}
+          /<!--START_SECTION:cards-->/ {print; system("cat cards.html"); p=0; next}
+          /<!--END_SECTION:cards-->/ {p=1}
+          p
+          ' README.md > README.tmp && mv README.tmp README.md
 
-      - name: Commit
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "update cards" || echo "no changes"
+          git commit -m "update cards" || echo "No changes"
           git push

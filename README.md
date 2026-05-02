@@ -12,13 +12,11 @@ Always looking for new challenges and opportunities to improve my skills.
 
 ## Estatísticas do GitHub / GitHub Statistics ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=omni&count_private=true)](https://github.com/MatheusEleodoro)
+![GitHub Stats](https://github-readme-stats-git-main-github-readme-stats-team.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## Linguagens Mais Usadas / Most Used Languages ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&langs_count=8&theme=omni)](https://github.com/MatheusEleodoro)
+![Top Langs](https://github-readme-stats-git-main-github-readme-stats-team.vercel.app/api/top-langs/?username=MatheusEleodoro&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## Projetos Destacados / Featured Projects ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
@@ -26,7 +24,7 @@ Always looking for new challenges and opportunities to improve my skills.
 
 - [DynamicSpecification](https://github.com/MatheusEleodoro/DynamicSpecification): Biblioteca Spring Java 21 para realizar consultas dinâmicas.
 - [GorilIA](https://github.com/MatheusEleodoro/GorilIA): Assistente Virtual em Java (ChatGPT).
-- [Authenticator](https://github.com/MatheusEleodoro/api-authenticator): Api de autenticação de serviços via Keycloak em ambiente Docker.
+- [Authenticator](https://github.com/MatheusEleodoro/api-authenticator): Api de autenticação de servi��os via Keycloak em ambiente Docker.
 
 ## Entre em Contato / Contact Me ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png) ![United States Flag](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png)
 

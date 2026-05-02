@@ -36,41 +36,11 @@ Experienced in building scalable APIs, event-driven systems and resilient archit
 ## 📦 Projetos Recentes / Latest Projects
 
 <!--START_SECTION:cards-->
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/%20-Project-444?style=for-the-badge"/>
-
-### Loading...
-
-<sub>Atualizando automaticamente...</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Lang----gray?style=flat-square"/>
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/Loading-181717?style=for-the-badge"/>
-
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/%20-Project-444?style=for-the-badge"/>
-<br><br><br><br><br><br><br><br>
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/%20-Project-444?style=for-the-badge"/>
-<br><br><br><br><br><br><br><br>
-</td>
-
-</tr>
-</table>
-
+<table><tr>
+<td width="33%" align="center"> <img src="https://img.shields.io/badge/%20-Project-0A66C2?style=for-the-badge"/> <h3>MatheusEleodoro</h3> <sub>No description</sub> <br><br> <img src="https://img.shields.io/badge/Lang-N/A-ED8B00?style=flat-square"/> <br><br><br> <a href="https://github.com/MatheusEleodoro/MatheusEleodoro"><img src="https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github"/></a> </td>
+<td width="33%" align="center"> <img src="https://img.shields.io/badge/%20-Project-0A66C2?style=for-the-badge"/> <h3>3mbank</h3> <sub>🏦 3mbank - Projeto educacional de plataforma bancária digital para demonstrar ar</sub> <br><br> <img src="https://img.shields.io/badge/Lang-N/A-ED8B00?style=flat-square"/> <br><br><br> <a href="https://github.com/MatheusEleodoro/3mbank"><img src="https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github"/></a> </td>
+<td width="33%" align="center"> <img src="https://img.shields.io/badge/%20-Project-0A66C2?style=for-the-badge"/> <h3>DynamicSpecification</h3> <sub>No description</sub> <br><br> <img src="https://img.shields.io/badge/Lang-Java-ED8B00?style=flat-square"/> <br><br><br> <a href="https://github.com/MatheusEleodoro/DynamicSpecification"><img src="https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github"/></a> </td>
+</tr></table>
 <!--END_SECTION:cards-->
 
 ---

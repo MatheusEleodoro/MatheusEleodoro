@@ -47,10 +47,9 @@ Experienced in building scalable APIs, event-driven systems and resilient archit
 
 ## 📊 GitHub Stats
 
-> ⚠️ Pode falhar ocasionalmente (serviço externo)
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusEleodoro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MatheusEleodoro&theme=radical"/>
 </p>
 
 ---
